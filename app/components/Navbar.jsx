@@ -94,7 +94,7 @@ const Navbar = () => {
       {/* Main Content */}
       <div className="lg:ml-64 min-h-screen pt-16 lg:pt-0">
 
-        <div className="p-6">
+        <div className="p-6 max-sm:p-0">
           <Dashboard/>
         </div>
         
